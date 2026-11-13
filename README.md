@@ -1,6 +1,6 @@
 # NEXGUARD SECURITY
 
-## Projeto 02 --- Intro to Cyber Threat Intelligence
+##  Intro to Cyber Threat Intelligence
 
 **Defesa estratégica. Segurança ofensiva.**
 
